@@ -1,4 +1,4 @@
-# 👗 Fashion Retail Analytics
+# Fashion Retail Analytics
 
 End-to-end analysis of **3,400 fashion retail transactions** : data cleaning and customer segmentation in **Python**, and an interactive sales dashboard in **Power BI**.
 
@@ -51,13 +51,13 @@ fashion-retail-analytics/
 ├── README.md
 ├── requirements.txt
 ├── data/
-│   └── Fashion_Retail_Sales.csv        # 
+│   └── Fashion_Retail_Sales.csv        
 ├── notebooks/
-│   └── fashion_retail_analytics.ipynb  # cleaning, EDA, RFM, cross-sell
+│   └── fashion_retail_analytics.ipynb  
 ├── dashboard/
-│   └── fashion dashboard.pbix          # Power BI report
+│   └── fashion dashboard.pbix          
 └── assets/
-    └── dashboard.png                   # dashboard screenshot
+    └── dashboard.png                   
 ```
 
 
